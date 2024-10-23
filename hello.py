@@ -1,1 +1,2 @@
-print "Hello, Wiktor!"
+print("Hello, Jeremi!")
+print("Hello, Kacper!")
