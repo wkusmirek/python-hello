@@ -1,2 +1,2 @@
-print "Hello, Jeremi!"
-print "Hello, Kacper!"
+print("Hello, Jeremi!")
+print("Hello, Kacper!")
