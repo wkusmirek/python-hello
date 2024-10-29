@@ -1,0 +1,6 @@
+FROM ubuntu:24.04
+
+WORKDIR /tmp/python-hello
+COPY hello.py .
+RUN apt-get update;
+RUN apt-get install -y python3;
