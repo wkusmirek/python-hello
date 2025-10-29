@@ -1,3 +1,3 @@
-FROM python:3.12
+FROM python:latest
 COPY ./hello.py .
 ENTRYPOINT ["python3", "hello.py"]
