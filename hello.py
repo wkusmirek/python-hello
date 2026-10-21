@@ -1,1 +1,1 @@
-print "Hello Wiktor and Piotr!"
+print "Hello Marta and Kinga!"
