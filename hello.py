@@ -1,1 +1,1 @@
-print "Hello Wiktor and Piotr!"
+print("Hello Jan and Michal!")
